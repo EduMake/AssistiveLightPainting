@@ -12,8 +12,8 @@ tube_dia        = 35;
 clamp_wall      = 5;
 clamp_length     = plate_width;
 clamp_width = tube_dia+ (clamp_wall*2) ;
-nut_width = 17;
-nut_depth = 4;
+nut_width = 13.5;
+nut_depth = 3.5;
 bolt_dia  = 9;
 
 
@@ -59,7 +59,7 @@ union(){
             
         
             translate([ -(tube_dia/2
-        ), bolt_dia/2,0]){
+        ), bolt_dia/4,0]){
             rotate([45,0,0]){
                 cube([nut_depth*2, nut_width,  nut_width], center=true);
             }
