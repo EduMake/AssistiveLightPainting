@@ -6,7 +6,9 @@ Using SVG drawings to make light paintings using a custom large RGB light based 
 
 [![Lichtfactor - Talk Talk Advert](https://img.youtube.com/vi/QoT53RirX0Y/0.jpg)](https://www.youtube.com/watch?v=QoT53RirX0Y)
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/QoT53RirX0Y" frameborder="0" allowfullscreen></iframe>
+## But physically moving a light quickly is difficult for you?
+
+We are building a system to help. It will allow you to animate on your laptop and have a mechansism do the physical drawing.
 
 This uses the following technologies:-
  - Raspberry Pi
@@ -16,7 +18,13 @@ This uses the following technologies:-
  - https://shop.pimoroni.com/products/mote
  - Out version of vPiP   https://github.com/EduMake/vPiP
 
+
+## System Layout
+
 ![layout.png](layout.png)
+
+## Our custon vPlotter Mount
+
 ![nema14_based_vplotter_mount.png](nema14_based_vplotter_mount.png)
 
 
