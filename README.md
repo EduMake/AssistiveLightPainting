@@ -1,4 +1,4 @@
- AssistiveLightPainting
+# AssistiveLightPainting
 
 Using SVG drawings to make light paintings using a custom large RGB light based non-orthongal plotter.
 
@@ -9,6 +9,9 @@ This uses the following technologies:-
  - http://anigen.org/versions/0_8_1/
  - https://shop.pimoroni.com/products/mote
  - Out version of vPiP   https://github.com/EduMake/vPiP
+
+![nema14_based_vplotter_mount.png](nema14_based_vplotter_mount.png)
+
 
 ### Currently in Development.
 
@@ -23,4 +26,3 @@ This uses the following technologies:-
 - Set up camera and software ( https://github.com/EduMake/vPiP )
 - The system will then lightpaint each frame as the picture is taken.
 - The images are then compiled into a movie file.
-
