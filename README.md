@@ -2,7 +2,7 @@
 
 Using SVG drawings to make light paintings using a custom large RGB light based non-orthongal plotter.
 
-## Do you want to make stuff like this ???
+## Do you want to make videos like this ???
 
 [![Lichtfactor - Talk Talk Advert](https://img.youtube.com/vi/QoT53RirX0Y/0.jpg)](https://www.youtube.com/watch?v=QoT53RirX0Y)
 
