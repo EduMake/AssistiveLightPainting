@@ -1,4 +1,4 @@
-GR# AssistiveLightPainting
+ AssistiveLightPainting
 
 Using SVG drawings to make light paintings using a custom large RGB light based non-orthongal plotter.
 
@@ -8,6 +8,7 @@ This uses the following technologies:-
  - SVG
  - http://anigen.org/versions/0_8_1/
  - https://shop.pimoroni.com/products/mote
+ - Out version of vPiP   https://github.com/EduMake/vPiP
 
 ### Currently in Development.
 
