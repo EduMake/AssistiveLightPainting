@@ -10,6 +10,8 @@ This uses the following technologies:-
  - https://shop.pimoroni.com/products/mote
  - Out version of vPiP   https://github.com/EduMake/vPiP
 
+
+![layout.png](layout.png)
 ![nema14_based_vplotter_mount.png](nema14_based_vplotter_mount.png)
 
 
