@@ -2,6 +2,12 @@
 
 Using SVG drawings to make light paintings using a custom large RGB light based non-orthongal plotter.
 
+## Do you want to make stuff like this ???
+
+[![Lichtfactor - Talk Talk Advert](https://img.youtube.com/vi/QoT53RirX0Y/0.jpg)](https://www.youtube.com/watch?v=QoT53RirX0Y)
+
+<iframe width="854" height="480" src="https://www.youtube.com/embed/QoT53RirX0Y" frameborder="0" allowfullscreen></iframe>
+
 This uses the following technologies:-
  - Raspberry Pi
  - https://www.adafruit.com/product/2348
@@ -9,7 +15,6 @@ This uses the following technologies:-
  - http://anigen.org/versions/0_8_1/
  - https://shop.pimoroni.com/products/mote
  - Out version of vPiP   https://github.com/EduMake/vPiP
-
 
 ![layout.png](layout.png)
 ![nema14_based_vplotter_mount.png](nema14_based_vplotter_mount.png)
