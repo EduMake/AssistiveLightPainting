@@ -12,8 +12,8 @@ We are building a system to help. It will allow you to animate on your laptop an
 
 This uses the following technologies:-
  - Raspberry Pi
- - https://www.adafruit.com/product/2348
- - SVG
+ - Adafruit Stepper Motor HAT https://www.adafruit.com/product/2348
+ - SVG [Scalable Vector Graphics](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
  - http://anigen.org/versions/0_8_1/
  - https://shop.pimoroni.com/products/mote
  - Out version of vPiP   https://github.com/EduMake/vPiP
@@ -34,8 +34,11 @@ You will prepare the animation and at shooting time set up a frame (we are proto
 ## The Proposed Process
 
 - Install our software and hardware on a raspberry pi
-- Use inkscape to draw your characters
-- Use inkscape to layout your scenes 
+- Use SVG editing software to draw your characters 
+  - [inkscape](https://inkscape.org/en/) 
+  - [SVG Edit](https://svg-edit.github.io/svgedit/releases/svg-edit-2.8.1/svg-editor.html)
+  - [Vector Paint](http://vectorpaint.yaks.co.nz/)
+- Use inkscape etc. to layout your scenes 
 - Use Anigen to animate those scenes http://anigen.org/versions/0_8_1/
   - Line colours and widths should be picked up by the lights on the vplotter
 - Export the animation as zip file of indvidual frames
