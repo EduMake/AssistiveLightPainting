@@ -45,5 +45,5 @@ You will prepare the animation and at shooting time set up a frame (we are proto
 - Set up our custom, large format light v-plotter, using our parts and a frame.
 - Set up camera and raspberry pi control box
 - Run through setup procedure in software
-- Using your laptop you will then trigger each frame to be lightpainted whilst the camera takes the shot
+- Using your laptop / tablet / phone you will then trigger each frame to be lightpainted whilst the camera takes the shot
 - The images are then compiled into a movie file.
