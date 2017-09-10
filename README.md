@@ -38,6 +38,7 @@ You will prepare the animation and at shooting time set up a frame (we are proto
   - [inkscape](https://inkscape.org/en/) 
   - [SVG Edit](https://svg-edit.github.io/svgedit/releases/svg-edit-2.8.1/svg-editor.html)
   - [Vector Paint](http://vectorpaint.yaks.co.nz/)
+  - [Drawing SVG](http://drawsvg.org/drawsvg.html)
 - Use inkscape etc. to layout your scenes 
 - Use Anigen to animate those scenes http://anigen.org/versions/0_8_1/
   - Line colours and widths should be picked up by the lights on the vplotter
