@@ -1,8 +1,15 @@
 var linearize = require('svg-linearize');
-var loadsvg = require('load-svg');
+var svg = require("svg")
 var fs = require('fs');
 
-loadsvg('Fish.svg', function (err, svg) {
-    var nsvg = linearize(svg, { tolerance: 3 });
+text = fs.readFileSync("Fish.svg", "utf-8")
+var elem = svg(text)
+
+//var loadsvg = require('load-svg');
+
+//loadsvg('Fish.svg', function (err, svg) {
+    //var nsvg = linearize(svg, { tolerance: 3 });
+    
+    var nsvg = linearize(elem, { tolerance: 3 });
     fs.writeFileSync("Fish2.svg", nsvg)
-});
+//});
