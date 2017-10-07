@@ -16,5 +16,7 @@
     "url": "https://github.com/EduMake/AssistiveLightPainting/issues"
   },
   "dependencies": {
+    "svg-linearize": "^1.1.0",
+    "motor-hat": "^1.3.0"
   }
 }
