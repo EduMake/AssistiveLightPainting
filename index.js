@@ -2,13 +2,10 @@ var fs = require('fs');
 var DOMParser = require('xmldom').DOMParser;
 var XMLSerializer = require('xmldom').XMLSerializer;
 
-var doc = new DOMParser().parseFromString(
-    '<xml xmlns="a" xmlns:c="./lite">\n'+
-        '\t<child>test</child>\n'+
-        '\t<child></child>\n'+
-        '\t<child/>\n'+
-    '</xml>'
-    ,'text/xml');
+var sourceSVG = fs.readFileSync("Fish.svg", "utf-8");
+
+var doc = new DOMParser().parseFromString(sourceSVG
+    ,'image/svg+xml');
     
 
 var nsvg = new XMLSerializer().serializeToString(doc);
