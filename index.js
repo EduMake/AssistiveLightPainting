@@ -11,7 +11,7 @@ var doc = new DOMParser().parseFromString(
     ,'text/xml');
     
 
-var nsvg = XMLSerializer.serializeToString(doc);
+var nsvg = new XMLSerializer().serializeToString(doc);
 fs.writeFileSync("Fish2.svg", nsvg);
 
 //var linearize = require('svg-linearize');
