@@ -3,10 +3,20 @@ var DOMParser = require('xmldom').DOMParser;
 var XMLSerializer = require('xmldom').XMLSerializer;
 var linearize = require('svg-linearize');
 
+const jsdom = require("jsdom");
+const { JSDOM } = jsdom;
+
+
+
 var sourceSVG = fs.readFileSync("Fish.svg", "utf-8");
 
-var doc = new DOMParser().parseFromString(sourceSVG
-    ,'image/svg+xml');
+
+//var svg = require("svg");
+//var elem = svg(sourceSVG);
+
+var doc = new JSDOM(sourceSVG);
+    
+//var doc = new DOMParser().parseFromString(sourceSVG, 'image/svg+xml');
     
 
 
