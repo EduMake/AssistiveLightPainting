@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="layout.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.67531746"
+     inkscape:cx="561.25984"
+     inkscape:cy="131.80651"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-others="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-87)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 27.970239,280.36905 V 127.66667 H 256.26785 v 149.67857"
+       id="path3699"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#ffff00;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4506"
+       width="11.339285"
+       height="15.875001"
+       x="27.970238"
+       y="127.66667" />
+    <rect
+       style="fill:#ffff00;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4508"
+       width="10.583326"
+       height="19.654764"
+       x="245.68451"
+       y="127.66667" />
+    <circle
+       style="fill:#800000;stroke-width:2.64566922;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path4513"
+       cx="35.012833"
+       cy="138.91006"
+       r="5" />
+    <circle
+       r="5"
+       cy="140.55135"
+       cx="249.85451"
+       id="circle4515"
+       style="fill:#800000;stroke-width:2.64566922;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.06500005;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1.06500005,1.06500005;stroke-dashoffset:2.2365001"
+       d="M 27.970239,280.36905 C 19.04387,105.15065 36.566987,135.1107 36.566987,135.1107 l 86.160173,109.69499 126.48347,-109.3032 c 21.78618,0.86699 11.4455,94.19666 17.16825,141.295"
+       id="path4517"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <rect
+       style="fill:#00ff00;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4519"
+       width="9.794776"
+       height="23.507462"
+       x="118.02567"
+       y="236.57808" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="4.7014923"
+       y="113.25001"
+       id="text4523"><tspan
+         sodipodi:role="line"
+         id="tspan4521"
+         x="4.7014923"
+         y="113.25001"
+         style="stroke-width:0.26458332">Stepper Motor</tspan><tspan
+         sodipodi:role="line"
+         x="4.7014923"
+         y="126.47917"
+         style="stroke-width:0.26458332"
+         id="tspan4525">Mount</tspan><tspan
+         sodipodi:role="line"
+         x="4.7014923"
+         y="139.70834"
+         style="stroke-width:0.26458332"
+         id="tspan4527">Cog</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4529"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,0,87)"><flowRegion
+         id="flowRegion4531"><rect
+           id="rect4533"
+           width="260.61816"
+           height="74.039284"
+           x="524.19794"
+           y="604.16034" /></flowRegion><flowPara
+         id="flowPara4535">Mote Light</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="176.69777"
+       y="208.45522"
+       id="text4539"><tspan
+         sodipodi:role="line"
+         id="tspan4537"
+         x="176.69777"
+         y="208.45522"
+         style="stroke-width:0.26458332">Beaded Cord</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="60.335819"
+       y="141.45897"
+       id="text4543"><tspan
+         sodipodi:role="line"
+         id="tspan4541"
+         x="60.335819"
+         y="141.45897"
+         style="stroke-width:0.26458332">Chromakey / background poles</tspan></text>
+    <rect
+       style="fill:#00ff00;stroke-width:1.06500006;stroke-miterlimit:4;stroke-dasharray:1.06500004, 1.06500004;stroke-dashoffset:8.45291328"
+       id="rect4545"
+       width="12.929104"
+       height="12.537313"
+       x="35.028214"
+       y="271.53357" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="48.740906"
+       y="280.15298"
+       id="text4549"><tspan
+         sodipodi:role="line"
+         id="tspan4547"
+         x="48.740906"
+         y="280.15298"
+         style="stroke-width:0.26458332">RPi</tspan></text>
+    <rect
+       style="fill:#00ff00;stroke-width:1.06500006;stroke-miterlimit:4;stroke-dasharray:1.06500003, 1.06500003;stroke-dashoffset:8.45291328"
+       id="rect4572"
+       width="52.5"
+       height="24.291044"
+       x="105.39179"
+       y="269.9664" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="114.79478"
+       y="278.19403"
+       id="text4576"><tspan
+         sodipodi:role="line"
+         id="tspan4574"
+         x="114.79478"
+         y="278.19403"
+         style="stroke-width:0.26458332">Laptop</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 202.16418,285.24627 11.36194,-43.09701 -0.78359,45.44776 0.3918,-44.66418 12.53731,43.09701"
+       id="path4578"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#241c1c;stroke-width:1.06500006;stroke-miterlimit:4;stroke-dasharray:1.06500003, 1.06500003000000021;stroke-dashoffset:8.45291328"
+       id="rect4580"
+       width="23.115671"
+       height="16.455223"
+       x="203.33955"
+       y="228.04478" />
+    <ellipse
+       style="fill:#ffff00;stroke-width:1.06500006;stroke-miterlimit:4;stroke-dasharray:1.06500003, 1.06500003;stroke-dashoffset:8.45291328"
+       id="path4582"
+       cx="215.28918"
+       cy="236.27238"
+       rx="7.248138"
+       ry="5.4850721" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="234.29105"
+       y="231.17911"
+       id="text4586"><tspan
+         sodipodi:role="line"
+         id="tspan4584"
+         x="234.29105"
+         y="231.17911"
+         style="stroke-width:0.26458332">Camera</tspan></text>
+    <path
+       style="fill:none;stroke:#e70000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 47.957316,271.53357 c 0.513188,-45.47456 -11.90299,-90.94885 -11.390328,-136.42287 -0.434999,-8.72368 213.395692,0 213.395692,0"
+       id="path4588"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#f30000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 47.957316,271.53357 122.72716,244.80569"
+       id="path4590"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#f30000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 47.957316,271.53357 C 203.33955,228.04478 208.82462,233.92164 208.82462,233.92164"
+       id="path4592"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4594"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,0,87)"><flowRegion
+         id="flowRegion4596"><rect
+           id="rect4598"
+           width="142.15536"
+           height="56.269833"
+           x="217.6754"
+           y="518.27478" /></flowRegion><flowPara
+         id="flowPara4600">Cables</flowPara></flowRoot>  </g>
+</svg>
